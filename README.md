@@ -1,16 +1,34 @@
-# blog--C-Qt-Linux
+## blog--C++/Qt/Linux
 
 :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: 
 
 ## 一、C++          
 
-1.
+目录
 
-## 二、Qt         
+* XX
+    * [XXX](https://github.com/Seasons123)
+    
 
-1.配置相关：<br/>
-   （1）[mac+vscode+qt安装配置手册](https://github.com/Seasons123/blog--C-Qt-Linux/issues/1)
+## 二、Qt   
 
-## 三、Linux          
+目录
 
-1.
+* 1.配置相关：<br/>
+    * [mac+vscode+qt安装配置手册](https://github.com/Seasons123/blog--C-Qt-Linux/issues/1)
+
+* XX
+    * [XXX](https://github.com/Seasons123)
+
+
+## 三、Linux    
+
+目录
+
+* XX
+    * [XXX](https://github.com/Seasons123)
+
+
+
+
+
