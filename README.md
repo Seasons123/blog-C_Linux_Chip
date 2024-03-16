@@ -30,6 +30,11 @@
 
 * XX
     * [XXX](https://github.com/Seasons123)
+ 
+ 
+ ## 四、相关书籍阅读笔记
+  
+  > 1.[芯片简史](https://github.com/Seasons123/blog-C_Linux_Chip/issues/5)
 
 
 
