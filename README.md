@@ -36,7 +36,9 @@
   
   > 1.[芯片简史](https://github.com/Seasons123/blog-C_Linux_Chip/issues/5)
 
-  > 2.[DeepSeek技术原理与未来方向](https://github.com/Seasons123/blog-C_Linux_Chip/issues/6)
+  > 2.[芯片半导体基础知识](https://mp.weixin.qq.com/s?__biz=Mzg5NzY3NDUyMw==&mid=2247535575&idx=1&sn=2a80498d8643bce056f80d1049e4ac84&source=41#wechat_redirect)
+
+  > 3.[DeepSeek技术原理与未来方向](https://github.com/Seasons123/blog-C_Linux_Chip/issues/6)
 
 
 
