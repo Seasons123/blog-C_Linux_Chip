@@ -32,7 +32,7 @@
     * [XXX](https://github.com/Seasons123)
  
  
- ## 四、一些书籍阅读笔记
+ ## 四、一些书籍等阅读笔记
   
   > 1.[芯片简史](https://github.com/Seasons123/blog-C_Linux_Chip/issues/5)
 
