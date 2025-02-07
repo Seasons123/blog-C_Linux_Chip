@@ -1,6 +1,7 @@
-## blog--C++/Qt/Linux
+## blog：C++/Linux/Chip
 
-:balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: 
+:balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon:
+
   * [软件工程能力漫谈](https://github.com/Seasons123/blog--C-Qt-Linux/issues/3)
   * [代码的艺术](https://github.com/Seasons123/blog--C-Qt-Linux/issues/4)
 
